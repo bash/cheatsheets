@@ -1,4 +1,4 @@
-## Change to disabled user
+## Use non-available account
 If you need to execute a command as a user like apache or nginx, you have to
 give them a proper shell.
 
