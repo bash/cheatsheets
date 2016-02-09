@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Apache](apache.md)
-   * Rewrite Rules
+   * [Rewrite Rules](apache/rewrite_rules.md)
 * [CSS](css.md)
 * [GIT](git.md)
 
