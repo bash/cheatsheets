@@ -2,6 +2,8 @@
 
 ## Unit
 
+> See: https://www.freedesktop.org/software/systemd/man/systemd.service.html
+
 Units generally look a little bit like this:
 ```
 [Unit]
