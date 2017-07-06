@@ -12,7 +12,7 @@ Restart=always
 ExecStart=/usr/local/bin/myawesomeservice
 ```
 
-... and belong in `/etc/systemd/system/` and are named `myawesomeservice.service`.
+... belong in `/etc/systemd/system/` and are named `myawesomeservice.service`.
 
 ## Start on boot
 
