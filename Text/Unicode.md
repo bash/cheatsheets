@@ -1,3 +1,9 @@
+# Unicode
+
+## Character Ranges
+
+> Source: http://billposer.org/Linguistics/Computation/UnicodeRanges.html
+
 | Lower  | Upper  | Description                                                                             |
 |--------|--------|-----------------------------------------------------------------------------------------|
 | 0000   | 007F   | [Basic Latin](http://www.unicode.org/charts/PDF/U0000.pdf)<a></a>                       |
